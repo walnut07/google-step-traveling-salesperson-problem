@@ -1,4 +1,5 @@
 # Google STEP 2022: Travelling Salesman Problem Challenges
+Kurumi's documentation follows the problem instruction.
 
 Originally By: [Hayato Ito](https://github.com/hayatoito) (hayato@google.com)  
 2020-2022 Versions By: [Hugh O'Cinneide](https://github.com/hkocinneide)
@@ -259,3 +260,4 @@ Q/A might be obsolete for this year.
 
 This assignment is heavily inspired by
 [Discrete Optimization Course on Coursera](https://www.coursera.org/learn/discrete-optimization).
+
